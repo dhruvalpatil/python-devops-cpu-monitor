@@ -1,0 +1,5 @@
+2026-10-12 10:33:06 OK: web-server-01 CPU usage is 45.0%.
+2026-10-12 10:33:06 ALERT: web-server-02 CPU usage is 82.0%!
+2026-10-12 10:33:06 ALERT: db-server-01 CPU usage is 91.0%!
+2026-10-12 10:33:06 OK: app-server-01 CPU usage is 75.0%.
+2026-10-12 10:33:06 ALERT: app-server-02 CPU usage is 76.0%!

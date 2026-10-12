@@ -1,0 +1,6 @@
+server_name,CPU_usage
+web-server-01,45
+web-server-02,82
+db-server-01,91
+app-server-01,75
+app-server-02,76
